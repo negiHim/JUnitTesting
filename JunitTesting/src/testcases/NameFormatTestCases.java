@@ -22,6 +22,7 @@ public class NameFormatTest {
 		assertEquals(false, output);
 	}
 	
+	//test case for null case
 	@Test
 	public void nullTest() {
 		Testing test = new Testing();
